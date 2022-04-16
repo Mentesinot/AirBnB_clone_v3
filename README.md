@@ -155,7 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Mentesinot Tegegn - [Github](https://github.com/mentesinot)   
-Joy Wanjiru- [Github](https://github.com/jhuang10123) / 
+Joy Wanjiru- [Github](https://github.com/Joy879) / 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
